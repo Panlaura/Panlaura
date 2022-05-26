@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Panlaura
+- 👀 I’m interested in data science/analytics.
+- 🌱 I’m currently learning AI and Machine Learning.
+- 💞️ I’m looking to collaborate on tools needed in the techworld.
+- 📫 How to reach me: panlaura@me.com
